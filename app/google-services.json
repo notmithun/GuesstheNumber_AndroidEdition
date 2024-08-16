@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "508018665798",
+    "project_id": "guessthenumber-bynotmithun",
+    "storage_bucket": "guessthenumber-bynotmithun.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508018665798:android:151ab2235a77c47a90dd47",
+        "android_client_info": {
+          "package_name": "me.notmithun.gtn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "508018665798-van2a39k184kl3tna1s9jfaini1v1d1r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "me.notmithun.gtn",
+            "certificate_hash": "ebca1c709d6982f7d4925b6cda15ff18f974344f"
+          }
+        },
+        {
+          "client_id": "508018665798-b5ocj5250tkd9mtrtfqpngh00no1crvn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGU7yOv7SowRsMyh8-wCMFqx1II6HlE50"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "508018665798-b5ocj5250tkd9mtrtfqpngh00no1crvn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
